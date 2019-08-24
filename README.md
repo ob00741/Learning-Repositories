@@ -1,3 +1,3 @@
 # Learning-Repositories
 
-This Line Was written in GitHub :smile:
+This line was written in GitHub! :smile:
